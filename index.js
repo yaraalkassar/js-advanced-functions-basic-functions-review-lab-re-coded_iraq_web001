@@ -9,6 +9,6 @@ console.log(`This Monday, I will ${activity}!`);
 
 function wrapAdjective(character="*") {
 return function(adj="special"){
-  return(`You are ${character} ${adj} ${character})
+  return(`You are ${character}${adj}${character})
 }
 }
