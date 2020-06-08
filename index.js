@@ -12,3 +12,4 @@ return function(adj="special"){
   return(`You are ${character}${adj}${character})
 }
 }
+wrapAdjective("%")("a dedicated programmer");
