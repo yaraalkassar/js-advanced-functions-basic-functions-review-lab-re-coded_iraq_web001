@@ -8,5 +8,5 @@ console.log(`This Monday, I will ${activity}!`);
 }
 
 function wrapAdjective() {
-  
+
 }
